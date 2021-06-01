@@ -1,0 +1,5 @@
+logging:
+  level:
+    org.springframework.web: debug #log duzeyi debug ve ustu goruntulenebilecek
+  file: petclinic.log #log ciktilarini yazacagi konum
+                      #log dosyasin pc de istedigimiz yere yazilasini saglayabiliriz.
